@@ -1,0 +1,13 @@
+table, td {
+    border: 3px solid purple;
+    border-collapse: collapse;
+    width: 80%; 
+    margin: 0 auto;
+}
+
+td {
+    text-align: center;
+    width: 30%;
+    height: 200px;
+    font-size: 20em;
+}
